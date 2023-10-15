@@ -16,33 +16,33 @@ const introdata = {
 
 const dataabout = {
     title: "A bit about myself",
-    aboutme: "Hello, I'm Ayush, a dedicated high school student from Schaumburg. I have a wide range of interests that keep me engaged in school and beyond. Sports-wise, I'm passionate about tennis and swimming. I'm a music enthusiast, creating melodies on my keyboard.\n" +
-        "\n" +
-        "In addition to my athletic and musical pursuits, I'm actively involved in my school's Robotics Team, BPA, Math Team, and Coding Team, all of which challenge me academically and foster collaboration. As a Junior, I'm committed to personal growth and embracing the high school experience. I'm always open for a chat, whether it's about sports, music, academics, or just sharing high school stories. Feel free to connect; I'm eager to engage in meaningful conversations.",
+    aboutme1: "Hello, I'm Ayush, a dedicated high school student from Schaumburg. I have a wide range of interests that keep me engaged in school and beyond. Sports-wise, I'm passionate about tennis and swimming. I'm a music enthusiast, creating melodies on my keyboard.",
+    aboutme2: "In addition to my athletic and musical pursuits, I'm actively involved in my school's Robotics Team, BPA, Math Team, and Coding Team, all of which challenge me academically and foster collaboration.",
+    aboutme3: "As a Junior, I'm committed to personal growth and embracing the high school experience. I'm always open for a chat, whether it's about sports, music, academics, or just sharing high school stories. Feel free to connect; I'm eager to engage in meaningful conversations.",
 };
 const educationtimeline = [
     {
-        jobtitle: "Indian Schools",
+        school: "Indian Schools",
         where: "India",
         date: "Pre 2014",
     },
     {
-        jobtitle: "Winston Churchill Elementary School",
+        school: "Winston Churchill Elementary School",
         where: "Schaumburg, IL, USA",
         date: "2014 - 2017",
     },
     {
-        jobtitle: "Francis Campanelli Elementary School",
+        school: "Francis Campanelli Elementary School",
         where: "Schaumburg, IL, USA",
         date: "2017 - 2019",
     },
     {
-        jobtitle: "Margaret Mead Junior High School",
+        school: "Margaret Mead Junior High School",
         where: "Elk Grove Village, IL, USA",
         date: "2019",
     },
     {
-        jobtitle: "James B. Conant High School",
+        school: "James B. Conant High School",
         where: "Hoffman Estates, IL, USA",
         date: "2021 - Current",
     },
