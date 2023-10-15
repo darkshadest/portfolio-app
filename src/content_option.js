@@ -71,11 +71,11 @@ const skills = [{
 ];
 
 const services = [{
-        title: "UI & UX Design",
+        title: "Graphic Design",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
-        title: "Mobile Apps",
+        title: "STEM",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
@@ -148,21 +148,20 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "ayushkumar.rai@icloud.com",
+    YOUR_FONE: "(224)499-3488",
+    description: "",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_7x7cudq",
+    YOUR_TEMPLATE_ID: "template_dh6jvw9",
+    YOUR_USER_ID: "eWWWBm9iiTtoDCOXd",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/prince1107",
+    twitter: "https://twitter.com/darkshadest",
+    youtube: "https://youtube.com/@ayushkumarrai07",
 };
 export {
     meta,
