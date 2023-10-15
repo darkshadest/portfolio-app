@@ -1,7 +1,7 @@
 const logotext = "AKR";
 const meta = {
     title: "Ayush Kumar Rai",
-    description: "I’m Ayush Kumar Rai - a student at J B Conant High School",
+    description: "I’m Ayush Kumar Rai - a student at James B Conant High School",
 };
 
 const introdata = {
@@ -11,12 +11,14 @@ const introdata = {
         second: "I code cool things",
         third: "I make robots",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "",
 };
 
 const dataabout = {
     title: "A bit about myself",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "Hello, I'm Ayush, a dedicated high school student from Schaumburg. I have a wide range of interests that keep me engaged in school and beyond. Sports-wise, I'm passionate about tennis and swimming. I'm a music enthusiast, creating melodies on my keyboard.\n" +
+        "\n" +
+        "In addition to my athletic and musical pursuits, I'm actively involved in my school's Robotics Team, BPA, Math Team, and Coding Team, all of which challenge me academically and foster collaboration. As a Junior, I'm committed to personal growth and embracing the high school experience. I'm always open for a chat, whether it's about sports, music, academics, or just sharing high school stories. Feel free to connect; I'm eager to engage in meaningful conversations.",
 };
 const educationtimeline = [
     {

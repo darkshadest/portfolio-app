@@ -10,7 +10,7 @@ import html5Icon from "@iconify/icons-logos/html-5";
 import reactIcon from "@iconify/icons-logos/react";
 import javaIcon from "@iconify/icons-logos/java";
 import androidIcon from "@iconify/icons-logos/android-vertical";
-import javaIcon from "@iconify/icons-logos/pyt";
+import pythonIcon from "@iconify/icons-logos/python";
 import * as url from "url";
 
 const divStyle = {
@@ -58,6 +58,14 @@ export const Home = () => {
                       <div className="ring three"></div>
                     </div>
                   </Link>
+                  <Link to="/about">
+                    <div id="button_h" className="ac_btn btn">
+                      About Me
+                      <div className="ring one"></div>
+                      <div className="ring two"></div>
+                      <div className="ring three"></div>
+                    </div>
+                  </Link>
                   <Link to="/contact">
                     <div id="button_h" className="ac_btn btn">
                       Contact Me
@@ -79,6 +87,14 @@ export const Home = () => {
                     />
                     <Icon
                         icon={reactIcon}
+                        style={{fontSize: "400%", margin: "9% 5% 0 5%"}}
+                    />
+                    <Icon
+                        icon={pythonIcon}
+                        style={{fontSize: "400%", margin: "9% 5% 0 5%"}}
+                    />
+                    <Icon
+                        icon={androidIcon}
                         style={{fontSize: "400%", margin: "9% 5% 0 5%"}}
                     />
                   </span>
