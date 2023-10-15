@@ -1,7 +1,7 @@
-const logotext = "JOHN";
+const logotext = "AKR";
 const meta = {
     title: "Ayush Kumar Rai",
-    description: "I’m Ayush Kumar Rai - a ",
+    description: "I’m Ayush Kumar Rai - a student at J B Conant High School",
 };
 
 const introdata = {
@@ -12,27 +12,37 @@ const introdata = {
         third: "I make robots",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "A bit about myself",
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
 };
-const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+const educationtimeline = [
+    {
+        jobtitle: "Indian Schools",
+        where: "India",
+        date: "Pre 2014",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
+        jobtitle: "Winston Churchill Elementary School",
+        where: "Schaumburg, IL, USA",
+        date: "2014 - 2017",
+    },
+    {
+        jobtitle: "Francis Campanelli Elementary School",
+        where: "Schaumburg, IL, USA",
+        date: "2017 - 2019",
+    },
+    {
+        jobtitle: "Margaret Mead Junior High School",
+        where: "Elk Grove Village, IL, USA",
         date: "2019",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "James B. Conant High School",
+        where: "Hoffman Estates, IL, USA",
+        date: "2021 - Current",
     },
 ];
 
@@ -156,7 +166,7 @@ export {
     meta,
     dataabout,
     dataportfolio,
-    worktimeline,
+    educationtimeline,
     skills,
     services,
     introdata,
