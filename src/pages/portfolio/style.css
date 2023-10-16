@@ -45,6 +45,21 @@
     border: 1px solid black;
 }
 
+.modalimg {
+    max-width: 50%;
+}
+.modalimg2 {
+    max-width: 100%;
+}
+
+h1{
+    color: var(--text-color-2);
+}
+
+.modal-content {
+    background-color: black;
+}
+
 .po_item .content {
     opacity: 0;
     transition-delay: 1s;

@@ -1,3 +1,5 @@
+
+
 const logotext = "AKR";
 const meta = {
     title: "Ayush Kumar Rai",
@@ -70,80 +72,73 @@ const skills = [{
     },
 ];
 
-const services = [{
+const interests = [{
         title: "Graphic Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I have loved art and design forever, and since I like computers, I took media in Junior High and immediately fell in love with it, and I am now a decent adobe creative app user.",
     },
     {
         title: "STEM",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I am an aspiring engineer and I love STEM",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Sports",
+        description: "I love sport and compete in both Swimming and Tennis at the High School level",
+    },
+    {
+        title: "Business",
+        description: "I want to create my own company, and I participate in BPA",
     },
 ];
 
+
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "Project 1",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "Project 2",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "Project 3",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "Project 4",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "Project 5",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "Project 6",
-        link: "#",
+        title: "Life Beyond Coronavirus",
+        startDate: "2020",
+        description: "A little project I made during the lockdown to spread info about covid-19",
+        link: "https://glitch.com/edit/#!/lifebeyondcoronavirus",
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "Project 7",
-        link: "#",
+        title: "Basic Java Calculator",
+        startDate: "2022",
+        description: "My first java app: a basic calculator",
+        link: "https://github.com/prince1107/BasicJavaCalculator",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "Project 8",
-        link: "#",
+        title: "Battle Game",
+        startDate: "2022",
+        description: "A java based Battle Game",
+        link: "https://github.com/prince1107/BattleGame",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "Project 9",
-        link: "#",
+        title: "Ant Sim",
+        startDate: "2023",
+        description: "A javafx project that simulates an ant moving around",
+        link: "https://github.com/prince1107/AntSim",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "Project 10",
-        link: "#",
+        title: "Base Defense FXGL",
+        startDate: "2023",
+        description: "A javafx based base defense game comparable to zombs.io",
+        link: "https://github.com/prince1107/BaseDefenseFXGL",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "Project 11",
-        link: "#",
+        title: "D214 Robot Rumble winner",
+        startDate: "2023",
+        description: "Our team won the D214 Robot Rumble, the largest high school robotics competition in illinois",
+        link: "https://youtu.be/1kgkxAU2Yjw?si=jKNjZ6v3E1bhDNv2",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "Project 12",
-        link: "#",
+        title: "BPA State Winner + National Qualifier",
+        startDate: "2023",
+        description: "I won an even at BPA Illinois' State Leadership Conference, and have qualified for nationals in 3 events over the course of 2 years",
+        link: "https://x.com/ConantBPA/status/1658262958445559809?s=20",
+    },
+    {
+        title: "CodeClock",
+        startDate: "2023",
+        description: "A school project that tracks how long you code",
+        link: "https://github.com/prince1107/CodeClock",
     },
 ];
 
@@ -169,7 +164,7 @@ export {
     dataportfolio,
     educationtimeline,
     skills,
-    services,
+    interests,
     introdata,
     contactConfig,
     socialprofils,
