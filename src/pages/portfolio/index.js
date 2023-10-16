@@ -163,7 +163,7 @@ export const Portfolio = () => {
             <div className="content">
               <p>{dataportfolio[0].description}</p>
             </div>
-            <a href={dataportfolio[0].link}>View Project</a>
+            <a target="_blank" href={dataportfolio[0].link}>View Project</a>
           </Modal.Body>
           <Modal.Footer>
             <Button variant="secondary" onClick={handleClose0}>
@@ -184,7 +184,7 @@ export const Portfolio = () => {
             <div className="content">
               <p>{dataportfolio[1].description}</p>
             </div>
-            <a href={dataportfolio[1].link}>View Project</a>
+            <a target="_blank" href={dataportfolio[1].link}>View Project</a>
           </Modal.Body>
           <Modal.Footer>
             <Button variant="secondary" onClick={handleClose1}>
@@ -205,7 +205,7 @@ export const Portfolio = () => {
             <div className="content">
               <p>{dataportfolio[2].description}</p>
             </div>
-            <a href={dataportfolio[2].link}>View Project</a>
+            <a target="_blank" href={dataportfolio[2].link}>View Project</a>
           </Modal.Body>
           <Modal.Footer>
             <Button variant="secondary" onClick={handleClose2}>
@@ -226,7 +226,7 @@ export const Portfolio = () => {
             <div className="content">
               <p>{dataportfolio[3].description}</p>
             </div>
-            <a href={dataportfolio[3].link}>View Project</a>
+            <a target="_blank" href={dataportfolio[3].link}>View Project</a>
           </Modal.Body>
           <Modal.Footer>
             <Button variant="secondary" onClick={handleClose3}>
@@ -247,7 +247,7 @@ export const Portfolio = () => {
             <div className="content">
               <p>{dataportfolio[4].description}</p>
             </div>
-            <a href={dataportfolio[4].link}>View Project</a>
+            <a target="_blank" href={dataportfolio[4].link}>View Project</a>
           </Modal.Body>
           <Modal.Footer>
             <Button variant="secondary" onClick={handleClose4}>
@@ -268,7 +268,7 @@ export const Portfolio = () => {
             <div className="content">
               <p>{dataportfolio[5].description}</p>
             </div>
-            <a href={dataportfolio[5].link}>View Project</a>
+            <a target="_blank" href={dataportfolio[5].link}>View Project</a>
           </Modal.Body>
           <Modal.Footer>
             <Button variant="secondary" onClick={handleClose5}>
@@ -289,7 +289,7 @@ export const Portfolio = () => {
             <div className="content">
               <p>{dataportfolio[6].description}</p>
             </div>
-            <a href={dataportfolio[6].link}>View Project</a>
+            <a target="_blank" href={dataportfolio[6].link}>View Project</a>
           </Modal.Body>
           <Modal.Footer>
             <Button variant="secondary" onClick={handleClose6}>
@@ -310,7 +310,7 @@ export const Portfolio = () => {
             <div className="content">
               <p>{dataportfolio[7].description}</p>
             </div>
-            <a href={dataportfolio[7].link}>View Project</a>
+            <a target="_blank" href={dataportfolio[7].link}>View Project</a>
           </Modal.Body>
           <Modal.Footer>
             <Button variant="secondary" onClick={handleClose7}>
