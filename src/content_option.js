@@ -41,12 +41,17 @@ const educationtimeline = [
     {
         school: "Margaret Mead Junior High School",
         where: "Elk Grove Village, IL, USA",
-        date: "2019",
+        date: "2019 - 2021",
     },
     {
         school: "James B. Conant High School",
         where: "Hoffman Estates, IL, USA",
-        date: "2021 - Current",
+        date: "2021 - 2025",
+    },
+    {
+      school: "Purdue University - Main Campus",
+      where: "West Lafayette, IN, USA",
+      date: "2025 - Current",
     },
 ];
 
@@ -155,7 +160,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/prince1107",
-    twitter: "https://twitter.com/darkshadest",
+    linkedin: "linkedin.com/in/ayushkumarrai",
     youtube: "https://youtube.com/@ayushkumarrai07",
 };
 export {
