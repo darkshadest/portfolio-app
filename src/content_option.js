@@ -160,7 +160,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/prince1107",
-    linkedin: "linkedin.com/in/ayushkumarrai",
+    linkedin: "https://linkedin.com/in/ayushkumarrai",
     youtube: "https://youtube.com/@ayushkumarrai07",
 };
 export {
