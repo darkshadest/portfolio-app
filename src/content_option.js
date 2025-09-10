@@ -95,7 +95,7 @@ const dataportfolio = [{
         title: "Life Beyond Coronavirus",
         startDate: "2020",
         description: "A little project I made during the lockdown to spread info about covid-19",
-        link: "https://glitch.com/edit/#!/lifebeyondcoronavirus",
+        link: "https://lifebeyondcoronavirus-q7t3a.ondigitalocean.app/index.html",
     },
 
     {
