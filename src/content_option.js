@@ -18,9 +18,9 @@ const introdata = {
 
 const dataabout = {
     title: "A bit about myself",
-    aboutme1: "Hello, I'm Ayush, a dedicated high school student from Schaumburg. I have a wide range of interests that keep me engaged in school and beyond. Sports-wise, I'm passionate about tennis and swimming. I'm a music enthusiast, creating melodies on my keyboard.",
-    aboutme2: "In addition to my athletic and musical pursuits, I'm actively involved in my school's Robotics Team, BPA, Math Team, and Coding Team, all of which challenge me academically and foster collaboration.",
-    aboutme3: "As a Junior, I'm committed to personal growth and embracing the high school experience. I'm always open for a chat, whether it's about sports, music, academics, or just sharing high school stories. Feel free to connect; I'm eager to engage in meaningful conversations.",
+    aboutme1: "Hello, I'm Ayush, a dedicated college student from Schaumburg. I have a wide range of interests that keep me engaged in school and beyond. Sports-wise, I'm passionate about tennis and swimming. I'm a music enthusiast, creating melodies on my keyboard.",
+    aboutme2: "In addition to my athletic and musical pursuits, I'm actively involved in my Purdue's Railside Robotics, Space Program, PURPL, SAE teams, & Grand Prix, all of which challenge me academically and foster collaboration.",
+    aboutme3: "As a Freshman, I'm committed to personal growth and embracing the college experience. I'm always open for a chat, whether it's about sports, music, academics, or just sharing stories. Feel free to connect; I'm eager to engage in meaningful conversations.",
 };
 const educationtimeline = [
     {
@@ -60,20 +60,28 @@ const skills = [{
         value: 90,
     },
     {
-        name: "HTML5",
-        value: 80,
-    },
-    {
         name: "Microsoft Office",
         value: 99,
     },
     {
-        name: "Python",
-        value: 60,
+      name: "HTML5",
+      value: 80,
     },
     {
         name: "Graphic Design",
         value: 85,
+    },
+    {
+      name: "SwiftUI",
+      value: 75,
+    },
+    {
+      name: "NX & Solidworks",
+      value: "In progress",
+    },
+    {
+      name: "C & R",
+      value: "In progress",
     },
 ];
 
