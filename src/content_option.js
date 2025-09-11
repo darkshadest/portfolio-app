@@ -24,26 +24,6 @@ const dataabout = {
 };
 const educationtimeline = [
     {
-        school: "Indian Schools",
-        where: "India",
-        date: "Pre 2014",
-    },
-    {
-        school: "Winston Churchill Elementary School",
-        where: "Schaumburg, IL, USA",
-        date: "2014 - 2017",
-    },
-    {
-        school: "Francis Campanelli Elementary School",
-        where: "Schaumburg, IL, USA",
-        date: "2017 - 2019",
-    },
-    {
-        school: "Margaret Mead Junior High School",
-        where: "Elk Grove Village, IL, USA",
-        date: "2019 - 2021",
-    },
-    {
         school: "James B. Conant High School",
         where: "Hoffman Estates, IL, USA",
         date: "2021 - 2025",
@@ -76,12 +56,12 @@ const skills = [{
       value: 75,
     },
     {
-      name: "NX & Solidworks",
-      value: "In progress",
+      name: "NX & Solidworks (In Progress)",
+      value: 10,
     },
     {
-      name: "C & R",
-      value: "In progress",
+      name: "C & R (In Progress)",
+      value: 10,
     },
 ];
 
